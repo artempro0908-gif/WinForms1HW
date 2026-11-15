@@ -1,0 +1,17 @@
+C:\Users\olyaf\OneDrive\Робочий стіл\APTEM\Коледж\C#\WinForms1HW\WinForms1HW\bin\Debug\net10.0-windows\WinForms1HW.exe
+C:\Users\olyaf\OneDrive\Робочий стіл\APTEM\Коледж\C#\WinForms1HW\WinForms1HW\bin\Debug\net10.0-windows\WinForms1HW.deps.json
+C:\Users\olyaf\OneDrive\Робочий стіл\APTEM\Коледж\C#\WinForms1HW\WinForms1HW\bin\Debug\net10.0-windows\WinForms1HW.runtimeconfig.json
+C:\Users\olyaf\OneDrive\Робочий стіл\APTEM\Коледж\C#\WinForms1HW\WinForms1HW\bin\Debug\net10.0-windows\WinForms1HW.dll
+C:\Users\olyaf\OneDrive\Робочий стіл\APTEM\Коледж\C#\WinForms1HW\WinForms1HW\bin\Debug\net10.0-windows\WinForms1HW.pdb
+C:\Users\olyaf\OneDrive\Робочий стіл\APTEM\Коледж\C#\WinForms1HW\WinForms1HW\obj\Debug\net10.0-windows\WinForms1HW.Form1.resources
+C:\Users\olyaf\OneDrive\Робочий стіл\APTEM\Коледж\C#\WinForms1HW\WinForms1HW\obj\Debug\net10.0-windows\WinForms1HW.csproj.GenerateResource.cache
+C:\Users\olyaf\OneDrive\Робочий стіл\APTEM\Коледж\C#\WinForms1HW\WinForms1HW\obj\Debug\net10.0-windows\WinForms1HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olyaf\OneDrive\Робочий стіл\APTEM\Коледж\C#\WinForms1HW\WinForms1HW\obj\Debug\net10.0-windows\WinForms1HW.AssemblyInfoInputs.cache
+C:\Users\olyaf\OneDrive\Робочий стіл\APTEM\Коледж\C#\WinForms1HW\WinForms1HW\obj\Debug\net10.0-windows\WinForms1HW.AssemblyInfo.cs
+C:\Users\olyaf\OneDrive\Робочий стіл\APTEM\Коледж\C#\WinForms1HW\WinForms1HW\obj\Debug\net10.0-windows\WinForms1HW.csproj.CoreCompileInputs.cache
+C:\Users\olyaf\OneDrive\Робочий стіл\APTEM\Коледж\C#\WinForms1HW\WinForms1HW\obj\Debug\net10.0-windows\WinForms1HW.dll
+C:\Users\olyaf\OneDrive\Робочий стіл\APTEM\Коледж\C#\WinForms1HW\WinForms1HW\obj\Debug\net10.0-windows\refint\WinForms1HW.dll
+C:\Users\olyaf\OneDrive\Робочий стіл\APTEM\Коледж\C#\WinForms1HW\WinForms1HW\obj\Debug\net10.0-windows\WinForms1HW.pdb
+C:\Users\olyaf\OneDrive\Робочий стіл\APTEM\Коледж\C#\WinForms1HW\WinForms1HW\obj\Debug\net10.0-windows\WinForms1HW.genruntimeconfig.cache
+C:\Users\olyaf\OneDrive\Робочий стіл\APTEM\Коледж\C#\WinForms1HW\WinForms1HW\obj\Debug\net10.0-windows\ref\WinForms1HW.dll
+C:\Users\olyaf\OneDrive\Робочий стіл\APTEM\Коледж\C#\WinForms1HW\WinForms1HW\obj\Debug\net10.0-windows\WinForms.B574F697.Up2Date
